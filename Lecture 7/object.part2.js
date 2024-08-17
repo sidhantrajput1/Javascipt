@@ -34,7 +34,7 @@ const obj2 = {
 
 // const obj3 = Object.assign(obj1, obj2)
 // const obj3 = Object.assign({}, obj1, obj2)
-// const obj3 = {...obj1, ...obj2} // spread operator
+// const obj3 = {...obj1, ...obj2} // spread operator in object 
 // console.log(obj3);
 
 const employee = [
