@@ -1,6 +1,6 @@
-function square(number) {
-    return number * number;
-} 
+// function square(number) {
+//     return number * number;
+// } 
 
 // console.log(square(6))
 
@@ -35,3 +35,14 @@ const square = function (number) {
 } 
 
 // console.log(square(6))
+
+// ! Immediately Invoked function Expressions
+
+// ( function () {
+//     console.log('DB CONNECTED SUCCESSFULLY');
+// } )();
+
+
+( (name) => {
+    console.log(`DB CONNECTED ${name}`);
+})('Sidhant');
