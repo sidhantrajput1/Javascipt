@@ -1,0 +1,11 @@
+Express is a minimal node js framework , a higher level of abstraction.
+Express contains a very robust set of features : 
+   complex routing , easier handling of request and response, middleware , server side rendering.
+
+
+Express allow fo rapid node development node.js application.
+
+Express makes it easier to oragnize your application into the mvc architecture.
+
+
+Postman :- it's a popular tool used for API development and testing. It's used to send HTTP requests to a server and view the responses, which makes it invaluable for debugging and developing APIs.
