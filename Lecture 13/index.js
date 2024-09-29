@@ -25,7 +25,15 @@ api.createOrderCart(cart, function () {
 })
 
 
+api.createOrderCart()
 
+api.proceedToPayMent()
+
+api.showOrderSummery();
+
+api.updateWallet();
+
+console.log('Namaste');
 
 
 
